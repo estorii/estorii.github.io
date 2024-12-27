@@ -11,7 +11,8 @@ comments: false
 ---
 
 
-&emsp;Today is a beautiful day—not just because it's December 24th, 2024, but because it's Christmas, the most wonderful time of the year. It’s been a while since I’ve written anything outside of class essays, so I decided to take a moment to reflect on this year—or at least the parts my mind holds vividly.
+&emsp; Today is a beautiful day—not just because it's December 24th, 2024, but because it's Christmas, the most wonderful time of the year.
+It’s been a while since I’ve written anything outside of class essays, so I decided to take a moment to reflect on this year—or at least the parts my mind holds vividly. <!--more-->
 
 &emsp;**Gratitude** <br>
 &emsp;This year, I faced one of my biggest fears: I signed up for Literature & Performance - basically, it’s an English writing class. A class I had always been intimidated by turned out to be one of the most wonderful experiences I’ve ever had. To my surprise, I ended up with the highest score this semester.
@@ -30,10 +31,10 @@ For our final, our professor stood at the door, suit and all, welcoming us into 
 
 &emsp;This place is beautiful. Too beautiful. It wraps me in its calm, a kind of stillness where no one seems to dream big or chase ambitions. And somehow, that beauty pulls at me, whispering that it’s okay to settle down. To stop running. To stay. And to be honest, I hate that whisper. I hate it more than anything about living here. I’m scared that one day I’ll lose the fire inside me—the dreams I’ve built my life around—and let myself sink into a life of comfort: 9-to-5 job, marriage, kids,... That’s not me. That’s not the reason why I‘m here from the get-go.
 
-&emsp;Yet the fear won’t let go. It lingers—haunting, a quiet tug at my heart that, at certain moments, makes me pause and chase answers I can’t quite name.
+Yet the fear won’t let go. It lingers—haunting, a quiet tug at my heart that, at certain moments, makes me pause and chase answers I can’t quite name.
 
-&emsp;**Home** <br>
-&emsp;As always, at this time of year, I miss Saigon. Its heartbeat echoes in my memories, a reminder of where I’ve been - home.
+**Home** <br>
+As always, at this time of year, I miss Saigon. Its heartbeat echoes in my memories, a reminder of where I’ve been - home.
 
 
 <div class="post-info"> 
