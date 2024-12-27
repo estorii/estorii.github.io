@@ -25,9 +25,8 @@ comments: false
 &emsp; This introspection brings me to a crossroads that questioning the very nature of health and happiness. In my pursuit of well-being, I find myself navigating a delicate balance between sacrifice and satisfaction, wondering whether life's true essence is not in strict routines but in the small, happy moments we give ourselves permission to enjoy.
 
 <div class="post-info"> 
-Esther the sugar free <br>
+<p style="text-align: right; font-style: italic; color: grey; line-height: 0.5;">@e the sugar-free</p>
 </div>
 <br>
-
 
 **Disclaimer:** _I recognize the importance of health and am committed to maintaining my habits for good health as indicated by my consultations with a healthcare professional based on my diagnostic results. The insights and reflections shared in this article are based on personal experiences and should not be taken as professional health advice. The health choices and routines described are specific to me and may not be suitable for everyone. It's important to consult with a healthcare professional before making any significant changes to your health regimen. This article is meant to provoke thought and encourage a conversation about the balance between health and happiness, rather than serve as a guide to health practices_.

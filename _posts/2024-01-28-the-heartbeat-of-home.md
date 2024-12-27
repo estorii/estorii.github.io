@@ -26,6 +26,7 @@ comments: false
 &emsp; I am a child of Saigon, carrying with me the vivid memories of its streets, driving through its expansive roads and intimate alleys, immersed in the symphony of honking cars, market murmurs, and the jovial banter of street vendors. Yet, I am gripped by fear, as an overseas student. I worry that upon my return, I might feel like an alien in my own homeland, the place that shaped my earliest memories and dreams, feeling strange amidst the streets and alleys I once knew so intimately.  <br>
 &emsp; If I had one wish, it would be for Saigon to be just a step away, close enough for its embracing breath to always be within reach, always home.
 
-<div class="post-info"> 
-@Esther, <br>
+div class="post-info"> 
+<p style="text-align: right; font-style: italic; color: grey; line-height: 0.5;">@e</p>
+
 </div>

@@ -26,6 +26,5 @@ comments: false
 &emsp; You are, and always will be, an integral part of my story. 
 
 <div class="post-info"> 
-@Esther, <br>
-spring 24
-</div>
+<p style="text-align: right; font-style: italic; color: grey; line-height: 0.5;">@e</p>
+<p style="text-align: right; font-style: italic; color: grey; line-height: 0.5;">@spring '24</p>

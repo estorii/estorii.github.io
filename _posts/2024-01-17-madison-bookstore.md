@@ -28,7 +28,6 @@ comments: false
 _the image above captures a quiet corner of Paul's Bookstore_
 
 <div class="post-info"> 
-Esther, <br>
-in snow’s whisper, <br>
-spring 24
+<p style="text-align: right; font-style: italic; color: grey; line-height: 0.5;">@e</p>
+<p style="text-align: right; font-style: italic; color: grey; line-height: 0.5;">in snow's whisper, spring '24</p>
 </div>
