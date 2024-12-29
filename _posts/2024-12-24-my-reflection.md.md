@@ -9,6 +9,7 @@ exclude: true
 show_date: false
 comments: false
 ---
+<img src="{{"https://egraphix.github.io}}/assets/images/DSCF7568.jpg" style>
 
 
 &emsp; Today is a beautiful day—not just because it's December 24th, 2024, but because it's Christmas, the most wonderful time of the year.
