@@ -10,8 +10,7 @@ show_date: false
 comments: false
 ---
 
-<img src="{{"https://egraphix.github.io}}/assets/images/2024jan23new.png" style> 
-<img src="{{"https://egraphix.github.io}}/assets/images/2024jan23.jpeg" style> 
+<img src="{{"https://egraphix.github.io}}/assets/images/thebookstore.png)" style> 
 
 &emsp; When it comes to December, thoughts often turn to the season of winding down, reflection and the contemplation of new goals. On a recent winter’s day, this mood found me, reminding me of a very old quote “*One sees clearly only with the heart. Anything essential is invisible to the eyes*” - Antoine de Saint-Exupéry. <br>
 <!--more-->
