@@ -11,8 +11,7 @@ comments: false
 ---
 
 
-<img src="{{site.url}}/assets/images/2024jan23new.png" style>
-
+<img src="{{"https://egraphix.github.io}}/assets/images/2024jan23new.png" style> 
 
 &emsp; In the book of life, each of us writes a unique pattern of friendship, some vibrant and numerous, others more muted and selective. But as the wheel of time turns, I can’t help but ponder does the relentless drift of time has left some companionships as mere Instagram follow buttons? <!--more--> The friends we used to see every day now live in different cities, or even different countries. Work, family, and personal commitments fill up our days, leaving little room for friendships, which once were a given, now turning into a luxury item.  We often find ourselves merely observing each other's lives through social media updates, rarely finding the time or words to reply or reach out, as if our once fun conversations have faded into silent scrolling. <br>
 

@@ -11,7 +11,7 @@ comments: false
 ---
 
 
-<img src="{{site.url}}/assets/images/IMG_2645.jpeg" style>
+<img src="{{"https://egraphix.github.io}}/assets/images/IMG_2645.jpeg" style> 
 
 
 &emsp; As the lunar calendar inches closer to the Tet holiday, the festive spirit of my hometown, Saigon, comes alive in a kaleidoscope of colors and emotions. Watching '2 Days 1 Night,' the TV show recently filmed in Saigon, a profound wave of nostalgia swept over me. It reminded me of the day I left Saigon, chasing dreams and aspirations. The longing for home, for the familiar streets and the warm smiles of Saigon, has become a silent companion on my journey. <!--more--> Tet in Saigon is more than just a holiday. Describing its full atmosphere is a challenging task, especially for someone who hasn't experienced it as much as me. However, one thing is clear: Tet in Saigon is unique; it's about the communal spirit that sweeps through the city. <br>
