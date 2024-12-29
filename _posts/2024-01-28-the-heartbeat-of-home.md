@@ -28,5 +28,3 @@ comments: false
 
 div class="post-info"> 
 <p style="text-align: right; font-style: italic; color: grey; line-height: 0.5;">@e</p>
-
-</div>
