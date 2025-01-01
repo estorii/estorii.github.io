@@ -24,7 +24,6 @@ That’s the thing about feelings—they don’t follow the rules. No matter how
 But almost as soon as I felt it, a voice inside asked: So what’s next?
 
 Part of me told myself to stay grounded, to not let this moment of fluttering feelings unravel the plans I’ve worked so hard to create. After all, I’m going to leave in two years. Why risk my ego, my heart, and my dreams for something so uncertain?
-
 Yet another part of me wanted to hold onto that glimpse, as if it were something precious. What if this is it? it whispered. What if this fleeting moment is worth holding onto?
 
 It’s a battle between logic and emotion—between the side of me that wants to lean in and the side that knows I can’t, not when the future I’m building lies beyond this so called “feeling”.
@@ -32,9 +31,7 @@ It’s a battle between logic and emotion—between the side of me that wants to
 
 &emsp;**the past** <br>
 &emsp;Still, I struggle. Maybe it’s because I’ve been hurt before. There was someone who once gave me the world—the most romantic gestures, words that felt like poetry—and then shattered my heart in a way I didn’t think was possible.
-
 Now, when I look at this crush, I can’t help but see the shadows of that past. They even share the same birth year, as if fate is playing some cruel trick on me. So, I tell myself: Don’t risk it. Protect yourself. Stay in control.
-
 But staying in control isn’t as easy as it sounds, not when feelings have already made their way past the walls I built.
 
 &emsp;**wake up, girl** <br>
@@ -49,12 +46,10 @@ So when I sit here, caught in the web of “should I or shouldn’t I,” I can�
 
 &emsp;**next** <br>
 &emsp;So, I’m choosing to step away—not because my feelings weren’t real, but because my dreams are stronger. I’ll carry the memory of those fleeting moments, not as regret, but as a reminder that I can feel deeply and still choose to rise above it.
+So, here’s to moving forward. Here’s to saying goodbye—not just to them, but to the “what ifs” that keep me looking back.
+So, here’s to stepping away, not as a loss, but as a choice. Here’s to choosing my dreams over a fleeting glance and my doubt. And here’s to believing that what’s meant for me will find me on the other side of this journey.
 
-So, here’s to moving forward. Here’s to saying goodbye—not just to them, but to the “what ifs” that keep me looking back. Here’s to choosing my dreams over fleeting glances and fleeting feelings.
-
-So, here’s to stepping away, not as a loss, but as a choice. Here’s to choosing my dreams over my doubts. And here’s to believing that what’s meant for me will find me on the other side of this journey.
-
- At the end of the day, I’m not afraid of storms—I’m afraid of standing still.
+At the end of the day, I’m not afraid of storms—I’m afraid of standing still.
 
 
 <div class="post-info"> 
