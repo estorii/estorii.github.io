@@ -22,9 +22,9 @@ comments: false
 
 ## **📌 My Experience:**  
 
-- **Student Ambassador at the Global Student Centre (GSC)** – Creating **inclusive spaces** where students from all backgrounds feel welcomed and heard.  
-- **Volunteer at SFU’s Sexual Violence Support & Prevention Office (SVSPO)** – Advocating for **safer, more supportive communities** through education and dialogue.  
-- **Hospital Volunteer at Surrey Memorial Hospital** – Engaging with **community health issues** and understanding **systemic barriers to care**.  
+- **✅ Student Ambassador at the Global Student Centre (GSC)** – Creating **inclusive spaces** where students from all backgrounds feel welcomed and heard.  
+- **✅ Volunteer at SFU’s Sexual Violence Support & Prevention Office (SVSPO)** – Advocating for **safer, more supportive communities** through education and dialogue.  
+- **✅ Hospital Volunteer at Surrey Memorial Hospital** – Engaging with **community health issues** and understanding **systemic barriers to care**.  
 
 &emsp; Through my work, I have engaged with students across campus and seen how **deeply equity, sustainability, and student well-being are connected**. As **VP Equity and Sustainability**, I will ensure that these connections are **not just recognized—but acted upon**.  
 
@@ -32,12 +32,12 @@ comments: false
 
 We are **students**, but we are also **workers, caregivers, activists, and change-makers**. I want to ensure **SFSS stands with students** and fights for our collective well-being.  
 
-### **✅ My Priorities:**  
+### **🔥 My Priorities:**  
 
-- **🌱 Climate & Environmental Justice** – Advocating for SFU to **divest from harmful industries, improve green spaces, and commit to tangible climate action**.  
-- **💙 Accessible & Affordable Student Supports** – Pushing for **expanded mental health resources, financial aid, and accessibility services**.  
-- **📢 Equity Beyond Buzzwords** – Ensuring that SFSS’s commitment to **anti-oppression and social justice** translates into **real policy change**, not just statements.  
-- **🤝 Stronger Student Representation** – Making sure that **marginalized voices are at the table**, not just an afterthought in decision-making.  
+- **🤝 Stronger Student Representation** – Ensuring marginalized voices shape SFSS policies.**.  
+- **💙 Accessible & Affordable Supports** – Expanding mental health, financial aid, and accessibility services.  
+- **📢 Climate Justice**  – Advocating for SFU to divest from harmful industries & commit to sustainability.  
+- **🌱 Equity Beyond Buzzwords** – Turning social justice commitments into real action.  
 
 ## **📬 SFU is Changing—Let’s Make Sure It Changes for the Better!**  
 
