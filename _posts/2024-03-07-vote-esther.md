@@ -11,9 +11,8 @@ comments: false
 ---
 
 
-<img src="{{"https://egraphix.github.io}}/assets/images/Esther Nguyen.jpg" style>
 
-# 🌿 About Me – Esther Nguyen for VP Equity & Sustainability 💙  
+# About Me – Esther Nguyen for VP Equity & Sustainability 
 
 &emsp; Hi SFU! I’m **Esther Nguyen (they/them)**, and I’m running to be your **VP Equity & Sustainability** at SFSS.  
 
