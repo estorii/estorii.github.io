@@ -51,4 +51,3 @@ We **deserve an SFU** where students are not just **surviving—but thriving**. 
 
 <div class="post-info"> 
 <p style="text-align: right; font-style: italic; color: grey; line-height: 0.5;">@Esther 4 Equity & Sustainability</p>
-<p style="text-align: right; font-style: italic; color: grey; line-height: 0.5;"</p>
