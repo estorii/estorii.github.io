@@ -51,5 +51,5 @@ We **deserve an SFU** where students are not just **surviving—but thriving**. 
 📢 **Together, we can create a university that works for all of us.** 💙🌿  
 
 <div class="post-info"> 
-<p style="text-align: right; font-style: italic; color: grey; line-height: 0.5;">@e the vanbee</p>
-<p style="text-align: right; font-style: italic; color: grey; line-height: 0.5;">mar '24</p>
+<p style="text-align: right; font-style: italic; color: grey; line-height: 0.5;">@Esther 4 Equity & Sustainability</p>
+<p style="text-align: right; font-style: italic; color: grey; line-height: 0.5;"</p>
